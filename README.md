@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+# Content of DAY 4 ([Tutorial](https://www.youtube.com/watch?v=WtGQuA_Yu1E&list=PLrjrqTcKCnhTXI2GyPkaQF47inLp6LoIC&index=4))
+
+- Adding Images
+- Google Fonts
+- Elevated Button
+- Login Page
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
